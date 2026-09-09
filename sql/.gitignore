@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+data/raw/*.csv
+data/raw/*.db
+data/raw/*.sqlite
+data/raw/*.sqlite3
+
+*.db
+*.sqlite
+*.sqlite3
+
+reports/figures/*
+!reports/figures/.gitkeep
