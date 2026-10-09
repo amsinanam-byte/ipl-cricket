@@ -83,4 +83,54 @@ JOIN v_innings i1
     ON i1.match_id = m.match_id
     AND i1.innings = 1
 
-WHERE m.result = 'win';
+WHERE m.result = 'win'; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
